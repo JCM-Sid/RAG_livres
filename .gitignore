@@ -1,0 +1,7 @@
+.venv
+db_IA/
+db_recettes/
+__pycache__/
+.ipynb_checkpoints
+
+
